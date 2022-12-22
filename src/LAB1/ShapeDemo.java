@@ -1,5 +1,5 @@
 package LAB1;
-import Shape.*;
+import LAB1.Shape.*;
 public class ShapeDemo {
 
 	public static void main(String[] args) {

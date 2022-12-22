@@ -1,4 +1,4 @@
-package Shape;
+package LAB1.Shape;
 
 public class Square {
 	int edeges = 4;

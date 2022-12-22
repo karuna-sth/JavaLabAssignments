@@ -1,4 +1,4 @@
-package Shape;
+package LAB1.Shape;
 public class Circle {
 	int edeges = 0;
 	public void display_edges() {
