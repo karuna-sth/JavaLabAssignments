@@ -1,6 +1,5 @@
-
-public class OneDimAvg {
-
+package LAB1;
+public class OneDimMean {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int avg = 0;
@@ -8,7 +7,6 @@ public class OneDimAvg {
 		avg = average(a);
 		System.out.println("The average of array is " + avg);
 	}
-	
 	public static int average(int[] a) {
 		int sum = 0;
 		for (int i:a){
@@ -17,5 +15,4 @@ public class OneDimAvg {
 		}
 		return sum/(a.length);
 	}
-
 }

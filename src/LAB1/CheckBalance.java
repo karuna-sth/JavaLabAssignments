@@ -1,11 +1,11 @@
+package LAB1;
 import java.util.Scanner;
-
 public class CheckBalance {
 	int checker(int[] arr) {
 		int balancedValue = 0;
 		for (int i : arr) {
 			if ( i % 2 == 0) {
-				if (arr[i] % 2 == 0) {
+				if (i % 2 == 0) {
 					balancedValue = 1;
 				}
 				else {
@@ -13,7 +13,7 @@ public class CheckBalance {
 				}
 			}
 			else {
-				if (arr[i] % 2 != 0) {
+				if (i % 2 != 0) {
 					balancedValue = 1;
 				}
 				else {

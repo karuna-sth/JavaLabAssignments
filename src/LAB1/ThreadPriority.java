@@ -1,3 +1,4 @@
+package LAB1;
 class MultiThreadEx extends Thread{
 	private Thread t;
 	private int number;

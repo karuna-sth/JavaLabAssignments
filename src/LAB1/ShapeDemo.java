@@ -1,3 +1,4 @@
+package LAB1;
 import Shape.*;
 public class ShapeDemo {
 

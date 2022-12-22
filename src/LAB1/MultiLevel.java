@@ -1,3 +1,4 @@
+package LAB1;
 class LevelOne{
 	
 	public void displayLvlOne() {

@@ -1,3 +1,4 @@
+package LAB1;
 import java.util.Scanner;
 
 public class CheckPrime {

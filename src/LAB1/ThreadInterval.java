@@ -1,3 +1,4 @@
+package LAB1;
 import java.lang.Thread;
 
 class ThreadEx extends Thread{
